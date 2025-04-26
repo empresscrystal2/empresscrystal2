@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @empresscrystal
+- 👋 Hi, I’m Ayobami
 - 👀 I’m interested in taking on projects 
-- 🌱 I’m currently learning php and javascript.
+- 🌱 I’m currently learning java and spring boot framework
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
